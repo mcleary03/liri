@@ -9,10 +9,10 @@ let command = process.argv[2];
 let arg = process.argv.slice(3).join(' ');
 
 const twitter = new Twitter(keys.twitter);
-const getTweets = (userName='funnyordie') => {
-    var params = { screen_name: userName };
+const getTweets = userName => {
+    var params = { screen_name: userName || 'funnyordie' };
     twitter.get('statuses/user_timeline', params, function (error, data, response) {
-        if (error) throw error
+        if (error) throw error;
 
         let tweets = data.map(tweet=>tweet.text).join("\n");
         log(tweets);
@@ -21,17 +21,19 @@ const getTweets = (userName='funnyordie') => {
 
 //  search: function({ type: 'artist OR album OR track', query: 'My search query', limit: 20 }, callback);
 const spotify = new Spotify(keys.spotify);
-const getSong = (trackName = 'The Sign') => {
+const getSong = trackName => {
+    console.log(trackName);
     spotify.search({
         type: 'track',
-        query: trackName
+        query: trackName || 'The Sign',
+        limit: 1
     })
     .then( res => {
         let song = res.tracks.items[0];
         let name = song.name;
         let artist = song.artists[0].name;
         let link = song.preview_url;
-        let album = song.album.name
+        let album = song.album.name;
 
         let output = `Artist: ${artist}\nName: ${name}\nLink: ${link}\nAlbum: ${album}\n`;
 
@@ -41,9 +43,9 @@ const getSong = (trackName = 'The Sign') => {
 };
 
 const omdb = keys.omdb;
-const getMovie = (title = 'Mr. Nobody') => {
+const getMovie = title => {
     // let output;
-    const url = `http://www.omdbapi.com/?i=${omdb.id}&apikey=${omdb.key}&type=movie&t=${title}\n`;
+    const url = `http://www.omdbapi.com/?i=${omdb.id}&apikey=${omdb.key}&type=movie&t=${title || 'Mr. Nobody'}\n`;
 
     request(url, (err, res, body) => {
         if (err) throw err;
@@ -59,7 +61,6 @@ const getMovie = (title = 'Mr. Nobody') => {
         let plot = movie.Plot;
         let actors = movie.Actors;
 
-        
         let output = `Title: ${title}\nYear: ${year}\nIMDB Rating: ${imdbRating}\nCountry: ${country}\nLanguage: ${language}\nPlot: ${plot}\nActors: ${actors}`;
         
         log(output);

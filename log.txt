@@ -1,89 +1,40 @@
+
+
+>spotify hello :
+
 Artist: Adele
 Name: Hello
 Link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a3500bd7e5a6472ab9ab264755be4a21
 Album: Hello
 
-Title: Get Out
+
+
+>spotify  :
+
+Artist: Ty Dolla $ign
+Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=a3500bd7e5a6472ab9ab264755be4a21
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+
+
+>omdb  :
+
+Title: Guardians of the Galaxy Vol. 2
 Year: 2017
-IMDB Rating: 7.7
-Country: Japan, USA
+IMDB Rating: 7.8
+Country: USA, New Zealand, Canada
 Language: English
-Plot: It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
-Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-Excited about parallelism in the browser #SFHTML5
-Definitely gonna check out #SamsungKids with my daughter later!
-Team still hard at work 24 hours later. #FinancialTomorrow https://t.co/e6vqVHjGb8
-We spied a curious-looking nestbox with an inscription that read "Tweet &amp; ye shall be re-tweeted". #sworcery
-#715BA1101 my dream job at Google http://t.co/tKqLR9Jz
-#715BA1101 Great article on team building. http://t.co/7VT67qCR
-following @google #715BA1101
-7 Answers You Wish The Ouija Board Didn't Give https://t.co/BK9Yz4lIfG
-I think we can all agree that government is unessential. https://t.co/hopYCWQh4E
-22 Delicious Tweets That Have Zero To Do With Politics https://t.co/H9yaJk8gHn
-HOSTAGE: A Love Story with @ZacharyQuinto - FOD Hall of Fame: 9.1.09 https://t.co/ehpIOFIWjp
-President Trump's New Year's resolution to lose weight seems to be working. https://t.co/zRZk0Ol2hH
-Saved By the Bell: The New Class was a bust but something tells me the NFL figured out a way to make this work. https://t.co/cYwwEd395T
-6 Of The Least Heartfelt Wedding Hashtags https://t.co/tkxI4demqq
-Each year, drunk people are selected to participate in torturous games the morning after a big night out. There's n… https://t.co/ocj9j3AfwK
-The 27 Goodest Tweets We Scrolled Past This Week https://t.co/ryU3a054EZ
-The 10 Best Twitter Reactions About Nothing This Week https://t.co/C7JWdNHr6j
-FOD Hall of Fame: A classic Spaghetti Western - 7.9.12 https://t.co/nEvuoG3yQM
-23 Edible Household Products YouTube HASN'T Banned https://t.co/N3qdXSZVxX
-🦈 https://t.co/zBp78AnclR
-The 21 Best GIFs Of All Time Of The Week https://t.co/ycg0wQoIxY https://t.co/d34atrhzpd
-RIP Tide Pod Memes (2018 - 2018) https://t.co/wsTe51CaRD
-RT @ArielleKebbel: 👇😂👇 have y’all seen this yet?!? Laughter is the best medicine. @tommeemay @funnyordie  https://t.co/gcwpxXiFrz
-47 Fun Things You MUST Do During the Government Shutdown https://t.co/E7ERlkG5Dt
-Remember the 'Family Matters' when Steve Urkel got drunk and fell off a roof? It was a very special episode. https://t.co/Hj3m2MpD6k
-RT @pitchjokes: A HUGE THANK YOU to all who helped us find the #bestpitch2017! We counted the votes, I picked what I liked best, and we mad…
-If You've Been Told You Take Board Games Too Seriously, This Guided Meditation Is For You https://t.co/PoySWtVPO2
-Excited about parallelism in the browser #SFHTML5
-Definitely gonna check out #SamsungKids with my daughter later!
-Team still hard at work 24 hours later. #FinancialTomorrow https://t.co/e6vqVHjGb8
-We spied a curious-looking nestbox with an inscription that read "Tweet &amp; ye shall be re-tweeted". #sworcery
-#715BA1101 my dream job at Google http://t.co/tKqLR9Jz
-#715BA1101 Great article on team building. http://t.co/7VT67qCR
-following @google #715BA1101
+Plot: The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
 
 
->twitter  :
+>omdb  :
 
-Excited about parallelism in the browser #SFHTML5
-Definitely gonna check out #SamsungKids with my daughter later!
-Team still hard at work 24 hours later. #FinancialTomorrow https://t.co/e6vqVHjGb8
-We spied a curious-looking nestbox with an inscription that read "Tweet &amp; ye shall be re-tweeted". #sworcery
-#715BA1101 my dream job at Google http://t.co/tKqLR9Jz
-#715BA1101 Great article on team building. http://t.co/7VT67qCR
-following @google #715BA1101
-
-
->twitter funnyordie :
-
-7 Answers You Wish The Ouija Board Didn't Give https://t.co/BK9Yz4lIfG
-I think we can all agree that government is unessential. https://t.co/hopYCWQh4E
-22 Delicious Tweets That Have Zero To Do With Politics https://t.co/H9yaJk8gHn
-HOSTAGE: A Love Story with @ZacharyQuinto - FOD Hall of Fame: 9.1.09 https://t.co/ehpIOFIWjp
-President Trump's New Year's resolution to lose weight seems to be working. https://t.co/zRZk0Ol2hH
-Saved By the Bell: The New Class was a bust but something tells me the NFL figured out a way to make this work. https://t.co/cYwwEd395T
-6 Of The Least Heartfelt Wedding Hashtags https://t.co/tkxI4demqq
-Each year, drunk people are selected to participate in torturous games the morning after a big night out. There's n… https://t.co/ocj9j3AfwK
-The 27 Goodest Tweets We Scrolled Past This Week https://t.co/ryU3a054EZ
-The 10 Best Twitter Reactions About Nothing This Week https://t.co/C7JWdNHr6j
-FOD Hall of Fame: A classic Spaghetti Western - 7.9.12 https://t.co/nEvuoG3yQM
-23 Edible Household Products YouTube HASN'T Banned https://t.co/N3qdXSZVxX
-🦈 https://t.co/zBp78AnclR
-The 21 Best GIFs Of All Time Of The Week https://t.co/ycg0wQoIxY https://t.co/d34atrhzpd
-RIP Tide Pod Memes (2018 - 2018) https://t.co/wsTe51CaRD
-RT @ArielleKebbel: 👇😂👇 have y’all seen this yet?!? Laughter is the best medicine. @tommeemay @funnyordie  https://t.co/gcwpxXiFrz
-47 Fun Things You MUST Do During the Government Shutdown https://t.co/E7ERlkG5Dt
-Remember the 'Family Matters' when Steve Urkel got drunk and fell off a roof? It was a very special episode. https://t.co/Hj3m2MpD6k
-RT @pitchjokes: A HUGE THANK YOU to all who helped us find the #bestpitch2017! We counted the votes, I picked what I liked best, and we mad…
-If You've Been Told You Take Board Games Too Seriously, This Guided Meditation Is For You https://t.co/PoySWtVPO2
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
