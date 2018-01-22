@@ -1,25 +1,18 @@
-
-
->spotify hello :
-
+> spotify hello :
 Artist: Adele
 Name: Hello
 Link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a3500bd7e5a6472ab9ab264755be4a21
 Album: Hello
 
 
-
->spotify  :
-
+> spotify  :
 Artist: Ty Dolla $ign
 Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
 Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=a3500bd7e5a6472ab9ab264755be4a21
 Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
 
 
-
->omdb  :
-
+> omdb  :
 Title: Guardians of the Galaxy Vol. 2
 Year: 2017
 IMDB Rating: 7.8
@@ -29,8 +22,7 @@ Plot: The Guardians must fight to keep their newfound family together as they un
 Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
 
 
->omdb  :
-
+> omdb  :
 Title: Mr. Nobody
 Year: 2009
 IMDB Rating: 7.9
@@ -38,3 +30,31 @@ Country: Belgium, Germany, Canada, France, USA, UK
 Language: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+>spotify "gangnam style" :
+Artist: PSY
+Name: Gangnam Style (강남스타일)
+Link: null
+Album: Gangnam Style (강남스타일)
+
+
+> twitter  :
+1: The shocking truth about Luke Skywalker's relationship with Kylo Ren is finally REVEALED! https://t.co/OpdR2chNMh
+2: BARKING NEWS @RealNewsForDogs https://t.co/eq6sGusNY6
+3: Vacation Sex starring @MrJakeJohnson  @RobRiggle Kathryn Hahn &amp; Lizzy Caplan - FOD Hall of Fame: 6.20.12 https://t.co/jM8utpAl0P
+4: 7 Answers You Wish The Ouija Board Didn't Give https://t.co/BK9Yz4lIfG
+5: I think we can all agree that government is unessential. https://t.co/hopYCWQh4E
+6: 22 Delicious Tweets That Have Zero To Do With Politics https://t.co/H9yaJk8gHn
+7: HOSTAGE: A Love Story with @ZacharyQuinto - FOD Hall of Fame: 9.1.09 https://t.co/ehpIOFIWjp
+8: President Trump's New Year's resolution to lose weight seems to be working. https://t.co/zRZk0Ol2hH
+9: Saved By the Bell: The New Class was a bust but something tells me the NFL figured out a way to make this work. https://t.co/cYwwEd395T
+10: 6 Of The Least Heartfelt Wedding Hashtags https://t.co/tkxI4demqq
+
+> spotify gangnam style :
+Artist: PSY
+Name: Gangnam Style (강남스타일)
+Link: null
+Album: Gangnam Style (강남스타일)
+
+
