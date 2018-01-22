@@ -1,0 +1,12 @@
+Artist: Adele
+Name: Hello
+Link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a3500bd7e5a6472ab9ab264755be4a21
+Album: Hello
+
+Title: Get Out
+Year: 2017
+IMDB Rating: 7.7
+Country: Japan, USA
+Language: English
+Plot: It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
+Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
