@@ -9,12 +9,13 @@ let command = process.argv[2];
 let arg = process.argv.slice(3).join(' ');
 
 const twitter = new Twitter(keys.twitter);
-const getTweets = (userName='mcleary03') => {
+const getTweets = (userName='funnyordie') => {
     var params = { screen_name: userName };
-    twitter.get('statuses/user_timeline', params, function (error, tweets, response) {
-        if (!error) {
-            log(tweets+"\n");
-        }
+    twitter.get('statuses/user_timeline', params, function (error, data, response) {
+        if (error) throw error
+
+        let tweets = data.map(tweet=>tweet.text).join("\n");
+        log(tweets);
     });
 };
 
@@ -68,18 +69,21 @@ const getMovie = (title = 'Mr. Nobody') => {
 const log = response => {
     if (!response) console.log('Error, response missing.')
 
-    fs.appendFile( 'log.txt', response+"\n", () => console.log(response) )
+    let output = `\n\n>${command} ${arg} :\n\n${response}\n`;
+
+    // fs.appendFile( 'log.txt', response+"\n", () => console.log(response) )
+    fs.appendFile( 'log.txt', output, () => console.log(output) );
 }
 
 const run = () => {
     switch (command) {
-        case 'my-tweets':
+        case 'twitter':
             getTweets(arg);
             break;
-        case 'spotify-this-song':
+        case 'spotify':
             getSong(arg);
             break;
-        case 'movie-this':
+        case 'omdb':
             getMovie(arg);
             break;
         case 'do-what-it-says':
